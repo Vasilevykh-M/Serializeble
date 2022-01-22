@@ -1,0 +1,16 @@
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\bin\Debug\FormsApp.exe.config
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\bin\Debug\FormsApp.exe
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\bin\Debug\FormsApp.pdb
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\bin\Debug\PointLab.dll
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\bin\Debug\PointLab.pdb
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\bin\Debug\PointLab.xml
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\obj\Debug\FormsApp.exe
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\obj\Debug\FormsApp.pdb
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\obj\Debug\FormsApp.PointForm.resources
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Михаил\Desktop\Компонентное\Points\FormsApp\bin\Debug\Newtonsoft.Json.xml

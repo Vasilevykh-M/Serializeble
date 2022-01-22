@@ -1,0 +1,10 @@
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\bin\Debug\PointLab.dll
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\bin\Debug\PointLab.pdb
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\bin\Debug\PointLab.xml
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\obj\Debug\PointLab.vbproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\obj\Debug\PointLab.Resources.resources
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\obj\Debug\PointLab.vbproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\obj\Debug\PointLab.vbproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\obj\Debug\PointLab.dll
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\obj\Debug\PointLab.xml
+C:\Users\Михаил\Desktop\Компонентное\Points\PointLab\obj\Debug\PointLab.pdb
