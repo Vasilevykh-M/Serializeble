@@ -77,6 +77,7 @@ namespace FormsApp
 
                     case ".json":
                         var jf = new JsonSerializer();
+                        jf.TypeNameHandling = TypeNameHandling.All;
                         using (var w = new StreamWriter(fs))
                             jf.Serialize(w, points);
                         break;
@@ -118,8 +119,10 @@ namespace FormsApp
 
                     case ".json":
                         var jf = new JsonSerializer();
+                        jf.TypeNameHandling = TypeNameHandling.All;
                         using (var r = new StreamReader(fs))
-                            points = (Point[])jf.Deserialize(r, typeof(Point[]));
+                            points = (Point[])jf.Deserialize(r, typeof(Point[]));// тут беда если говорим ему напрямую что читаем Point то он 
+                        //глючит с Point3D а если наоборот то он все Point читает как Point3D
                         break;
 
 
